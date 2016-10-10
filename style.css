@@ -1,0 +1,18 @@
+h4{
+	margin-left: 50px;
+}
+
+h3{
+	margin-left: 25px;
+}
+
+#preguntas>h3{
+	margin-top: 30px;
+}
+
+p{
+	margin-left: 50px;
+}
+.subrayar {
+	background-color: yellow;
+}
